@@ -6,8 +6,8 @@ const CONFIG = {
   phoneDisplay: "+234 906 744 8146",
   phoneTel: "+2349067448146",
   whatsappNumber: "2349067448146",
-  instagramUrl: "",
-  facebookUrl: ""
+  instagramUrl: "",   // leave empty to hide the icon
+  facebookUrl: ""     // leave empty to hide the icon
 };
 
 const RENTAL_ITEMS = [
